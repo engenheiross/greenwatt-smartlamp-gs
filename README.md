@@ -27,5 +27,8 @@ OU
 <br>
 Utilize o componente ReactJs fornecido neste repositório, crie um projeto React Vite e rode em sua própria máquina via npm.
 
+# Vídeo de Demonstração
+https://youtu.be/QMiZ7iRIFbo?si=cI95EzYYXE41JRPe
+
 # Arquitetura do Projeto
 ![FiwareDeploy_new_v4 drawio](https://github.com/user-attachments/assets/a18b4fd3-df90-494b-9231-13246d752f0e)
