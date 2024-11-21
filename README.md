@@ -73,9 +73,6 @@ O **SmartLamp** foi desenvolvido com foco em sustentabilidade e inovação, prom
 
 --- 
 
-# Vídeo de Demonstração
-https://youtu.be/QMiZ7iRIFbo?si=cI95EzYYXE41JRPe
-
 # Arquitetura do Projeto
 ![FiwareDeploy_new_v4 drawio](https://github.com/user-attachments/assets/a18b4fd3-df90-494b-9231-13246d752f0e)
 
