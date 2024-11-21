@@ -10,12 +10,9 @@ Sistema de Lâmpada Inteligente que se calibra de acordo com a luz natural e mov
 - Sensor de Movimento PIR
 
 # Funcionalidades
-- Nível de Luminosidade controlado via PWM, de acordo com a Luz Natural do Ambiente (calibrável)
-  Economiza energia ✔️ 
-- Detecção de movimento desliga automaticamente a lâmpada
-  Economiza energia ✔️
+- Nível de Luminosidade controlado via PWM, de acordo com a Luz Natural do Ambiente (calibrável) - Economiza energia ✔️
+- Detecção de movimento desliga automaticamente a lâmpada 
 - Usuário pode ligar/desligar a lâmpada remotamente
-  Economiza energia ✔️
   
 # Link da Simulação
 ![image](https://github.com/user-attachments/assets/84c30767-7a23-4bb1-bdc1-306e0b460b96)
