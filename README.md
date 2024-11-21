@@ -24,8 +24,10 @@ https://wokwi.com/projects/414919841310772225
 
 
 # Acesso ao Dashboard
-Para utilizar o Dashboard, favor acessar o repositório:
+Para utilizar o Dashboard, favor acessar o [repositório do website](https://github.com/engenheiross/web-frontgs)
+<br>
 OU
+<br>
 Utilize o componente ReactJs fornecido neste repositório, crie um projeto React Vite e rode em sua própria máquina via npm.
 
 # Arquitetura do Projeto
